@@ -1,0 +1,84 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": false
+    },
+    {
+      "id": "808e",
+      "content": "coca",
+      "important": false
+    },
+    {
+      "id": "c15b",
+      "content": "Este post es creado para manejar servidores ",
+      "important": false
+    },
+    {
+      "id": "b948",
+      "content": "Mi coquis es lhe best beatiful",
+      "important": false
+    },
+    {
+      "id": "e87e",
+      "content": "Mi coquis es lhe best beatiful",
+      "important": true
+    },
+    {
+      "id": "dab3",
+      "content": "Mi coquis es lhe best beatiful",
+      "important": true
+    },
+    {
+      "id": "b319",
+      "content": "pepito",
+      "important": false
+    },
+    {
+      "id": "fe04",
+      "content": "pepito",
+      "important": false
+    },
+    {
+      "id": "ed80",
+      "content": "osi",
+      "important": false
+    },
+    {
+      "id": "6859",
+      "content": "coquis",
+      "important": false
+    },
+    {
+      "id": "30aa",
+      "content": "",
+      "important": false
+    },
+    {
+      "id": "ae41",
+      "content": "toni",
+      "important": false
+    },
+    {
+      "id": "8c42",
+      "content": "Shere",
+      "important": true
+    },
+    {
+      "id": "c021",
+      "content": "holaaa",
+      "important": true
+    }
+  ]
+}
