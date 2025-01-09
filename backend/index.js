@@ -9,7 +9,7 @@ const app = express()
 
 app.use(cors()); // Habilitar CORS para todas las solicitudes
 app.use(express.json())
-
+app.use(express.static('dist'))
 
 let notes = [
   {
@@ -92,6 +92,6 @@ app.get('/', (request, response) => {
 
 
 app.use(unknownEndpoint)
-const PORT = 3002
+const PORT = process.env.PORT || 3001;
 app.listen(PORT)
 console.log(`Server running on port ${PORT}`)
